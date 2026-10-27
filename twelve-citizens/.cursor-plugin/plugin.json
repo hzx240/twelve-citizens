@@ -1,0 +1,11 @@
+{
+  "name": "twelve-citizens",
+  "version": "1.0.0",
+  "description": "以十二个性格不同的陪审员并行审计已生成的计划，再由审判长核实有没有必要修改。",
+  "author": {
+    "name": "hezhixin"
+  },
+  "license": "MIT",
+  "keywords": ["plan", "audit", "jury", "twelve-citizens", "review"],
+  "logo": "assets/logo.svg"
+}

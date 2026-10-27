@@ -1,0 +1,16 @@
+{
+  "name": "twelve-citizens",
+  "owner": {
+    "name": "hezhixin"
+  },
+  "metadata": {
+    "description": "十二公民：用十二个不同性格的陪审员审计一份计划，再由审判长决定要不要改。"
+  },
+  "plugins": [
+    {
+      "name": "twelve-citizens",
+      "source": "twelve-citizens",
+      "description": "以十二个性格不同的陪审员并行审计已生成的计划，再由审判长核实有没有必要修改。"
+    }
+  ]
+}
